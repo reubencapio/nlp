@@ -1,0 +1,2 @@
+scrapy crawl philstar
+exit
